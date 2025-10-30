@@ -6,7 +6,7 @@ El contador = 0. Al estar inicializado en 0 se introuce una nota de alumno más.
 
 La variable suma esta declarada sin condición por loque si se introduce un número fuera del rango lo añadirá a la nota media (cuando lo que debería de hacer es saltar un error).
 
-## 2. Cómo los detectaste (qué breakpoint/qué vista/qué valor te lo mostró).
+## 2. Cómo los detectaste (qué breakpoint/qué vista/qué valor te lo mostró).
 
 En el caso del contador, me dí cuenta cuando puse el breakpoint en el primer while. 
 En el segundo caso cuando estaba haciendo comprobaciones
